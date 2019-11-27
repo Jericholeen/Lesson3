@@ -14,6 +14,8 @@ public class L3 {
 
     private static void met() {
         System.out.print("TEST");
+        System.out.print("TEST*");
+
     }
 
 }
